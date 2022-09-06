@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://huddle-frontend-mentor-dannineccles.vercel.app/)
+- Solution URL: [Huddle](https://huddle-frontend-mentor-dannineccles.vercel.app/)
 
 ## My process
 
